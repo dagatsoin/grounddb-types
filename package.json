@@ -1,7 +1,7 @@
 {
-  "name": "@types/quickly-copy-file",
+  "name": "@types/ground:db",
   "version": "1.0.0",
-  "description": "Types for https://github.com/paulmillr/quickly-copy-file",
+  "description": "Types for https://github.com/GroundMeteor/db",
   "typings": "index.d.ts",
   "scripts": {
     "lint": "tslint index.d.ts",
@@ -13,18 +13,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/types/npm-quickly-copy-file.git"
+    "url": "git+https://github.com/dagatsoin/grounddb-types.git"
   },
   "author": {
-    "name": "Blake Embrey",
-    "email": "hello@blakeembrey.com",
-    "url": "http://blakeembrey.me"
+    "name": "Daniel Neveux",
+    "email": "d.neveux@crewnicles.com",
+    "url": "http://crewnicles.com"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/types/npm-quickly-copy-file/issues"
+    "url": "https://github.com/dagatsoin/grounddb-types/issues"
   },
-  "homepage": "https://github.com/types/npm-quickly-copy-file#readme",
+  "homepage": "https://github.com/dagatsoin/grounddb-types#readme",
   "devDependencies": {
     "greenkeeper-postpublish": "^1.0.1",
     "quickly-copy-file": "~1.0.0",

@@ -1,6 +1,6 @@
 # Typed Quickly Copy File
 
-The type definition for [`quickly-copy-file`](https://github.com/paulmillr/quickly-copy-file).
+The type definition for [`GroundDB`](https://github.com/GroundMeteor/db).
 
 ## License
 
